@@ -1,4 +1,7 @@
-## Hi there 👋
+# 👋 Hi, I'm Turgay!
+💻 Computer Programming Student  
+🚀 Learning C, HTML, and Git  
+🌱 I want to build cool projects and improve my skills!
 
 <!--
 **Turgayimal/turgayimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
