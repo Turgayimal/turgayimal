@@ -31,7 +31,7 @@
 
 ## 📫 Benimle İletişime Geç
 - 📍 Antalya, Türkiye  
-- 💼 [LinkedIn](#) *(yakında)*  
+- 💼 [LinkedIn](www.linkedin.com/in/turgay-imal-b21204389) 
 - ✉️ turgayimal2110@gmail.com  
 
 ---
