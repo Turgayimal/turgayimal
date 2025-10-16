@@ -33,7 +33,3 @@
 - 📍 Antalya, Türkiye  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turgay-imal-b21204389/)
 - turgayimal2110@gmail.com  
-
----
-
-⭐️ *“Öğrenmek asla bitmez — her küçük commit bir ilerlemedir!”*
