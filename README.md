@@ -31,18 +31,6 @@ Bu dönem aşağıdaki dersler aracılığıyla temel bilgilerimi geliştiriyoru
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="filter: invert(1);"/>
-  <img src="https://seeklogo.com/images/B/bubble-logo-9094E4620F-seeklogo.com.png" alt="bubble" width="40" height="40"/>
-  </p>
-
----
-
 ### 🚀 Öne Çıkan Projelerim
 - **[Algoritma-Calismalari](https://github.com/Turgayimal/Algoritma-Calismalari):** Algoritma ve Programlamaya Giriş dersinde öğrendiğim kavramları, çözdüğüm problemleri ve alıştırmaları belgelediğim repo. Algoritmaların mantığını ve sözde kodlarını içerir. (Düzenli olarak güncelleniyor!)
 - **[Risona Projesi (No-Code)](https://github.com/Turgayimal/uga-proje-adim1):** Bubble platformu üzerinde fikir aşamasından çalışan prototipe kadar geliştirdiğim, bağımsız müzisyenler için bir keşif platformu konsepti. Bu proje planlama, tasarım ve temel No-Code geliştirme adımlarını içermektedir. ([Adım 1](https://github.com/Turgayimal/uga-proje-adim1), [Adım 2](https://github.com/Turgayimal/uga-proje-adim2), [Adım 3 - Demo](https://github.com/Turgayimal/uga1-proje-adim3))
