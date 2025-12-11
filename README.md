@@ -11,7 +11,7 @@
 ### 📚 Şu Anda Öğrendiklerim (1. Sınıf Güz Dönemi Dersleri - 2025)
 Bu dönem aşağıdaki dersler aracılığıyla temel bilgilerimi geliştiriyorum:
 
-- **Algoritma ve Programlamaya Giriş:** Problem çözme mantığı, akış şemaları, sözde kod ve programlamanın temelleri. C diline giriş. (Repo: [Algoritma-Calismalari](https://github.com/Turgayimal/Algoritma-Calismalari))
+- **Algoritma ve Programlamaya Giriş:** Problem çözme mantığı, akış şemaları, sözde kod ve programlamanın temelleri. C diline giriş.
 - **Web Tasarımının Temelleri:** HTML ve CSS kullanarak statik web sayfaları oluşturma, web standartları ve temel tasarım prensipleri.
 - **Grafiksel Arayüz Tasarımı:** Kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) temelleri, tasarım prensipleri ve araçları hakkında bilgi.
 - **Uygulama Geliştirme Araçları:** Yazılım geliştirme süreçlerinde kullanılan IDE'ler, versiyon kontrol sistemleri (Git/GitHub) ve diğer yardımcı araçlar hakkında genel bilgi. (Bubble.io ile No-Code deneyimi dahil).
